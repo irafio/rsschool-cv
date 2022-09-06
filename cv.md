@@ -34,7 +34,7 @@ Experience No
 
 Education
 ---------------
-* University: Belarusian State University of Informatics and Radio Electronics
+* University: BGU
 
 English
 ---------------
